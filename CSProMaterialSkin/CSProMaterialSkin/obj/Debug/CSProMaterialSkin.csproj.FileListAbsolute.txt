@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\bin\Debug\CSProMaterialSkin.exe.config
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\bin\Debug\CSProMaterialSkin.exe
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\bin\Debug\CSProMaterialSkin.pdb
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.Properties.Resources.resources
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.exe
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.pdb
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.HelloWorldForm.resources
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\bin\Debug\MaterialSkin.dll
+C:\Users\PC\source\repos\CSProMaterialSkin\CSProMaterialSkin\obj\Debug\CSProMaterialSkin.csproj.CopyComplete

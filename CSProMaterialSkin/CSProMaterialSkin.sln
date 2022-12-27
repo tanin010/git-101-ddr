@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSProMaterialSkin", "CSProMaterialSkin\CSProMaterialSkin.csproj", "{E50D5DFB-5AE7-4288-9F87-9E4691BA6EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50D5DFB-5AE7-4288-9F87-9E4691BA6EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50D5DFB-5AE7-4288-9F87-9E4691BA6EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50D5DFB-5AE7-4288-9F87-9E4691BA6EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50D5DFB-5AE7-4288-9F87-9E4691BA6EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755FC29F-C7BD-4F56-9BF2-B597A7DE0BA8}
+	EndGlobalSection
+EndGlobal
