@@ -22,7 +22,7 @@ namespace CSProMaterialSkin
             //themes: Light & Dark 
             skinManager.Theme = MaterialSkinManager.Themes.LIGHT;
 
-            //Color schemes
+            //Color schemes//
 
             //BlueGrey
             skinManager.ColorScheme = new ColorScheme(Primary.BlueGrey800, Primary.BlueGrey900, Primary.BlueGrey500, Accent.LightBlue200, TextShade.WHITE);
